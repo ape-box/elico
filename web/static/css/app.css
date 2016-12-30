@@ -1,0 +1,15 @@
+/* This file is for your main application css. */
+
+#shell-output {
+  min-height: 3em;
+  background: white;
+  border: 1px solid #aaa;
+  margin: 0 0 1em 0;
+  max-height: 60vh;
+  padding: 1em 0.5em;
+  overflow-y: scroll;
+}
+
+#shell-input {
+  width: 100%;
+}

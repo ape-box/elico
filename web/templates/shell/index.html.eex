@@ -1,0 +1,5 @@
+<h2>Shell</h2>
+<div class="well">
+  <div id="shell-output"></div>
+  <input id="shell-input" type="text"></input>
+</div>
